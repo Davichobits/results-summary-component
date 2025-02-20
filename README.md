@@ -7,7 +7,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ## Technologies used
 
 - HTML
-- Tailwind CSS
+- CSS
 
 ## Author
 
